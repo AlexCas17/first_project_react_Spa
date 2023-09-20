@@ -1,14 +1,11 @@
-.App {
-  text-align: center;
-}
-
-.header {
-  display: flex;
-  text-align: center;
-  justify-content: space-between;
+img {
+  width: 200px;
+  height: 200px;
 }
 
 .service-container {
+  margin: 50px 200px;
+  gap: 50px;
   border: 1px solid black;
   display: flex;
   justify-content: space-between;
