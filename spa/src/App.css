@@ -7,3 +7,20 @@
   text-align: center;
   justify-content: space-between;
 }
+
+.service-container {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  height: fit-content;
+  align-self: center;
+}
+
+span {
+  font-size: 25px;
+  margin: 0 10px;
+  font-weight: 600;
+}
